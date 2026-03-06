@@ -17,6 +17,9 @@ Taking the legacy of an archived 16-bit icon theme and adding my own work to it.
 
 # 🖥️ How to Install
 
+>[!Note]
+> If you use Dolphin as your file manager and have set `QT_QPA_PLATFORMTHEME=qt6ct`, don't forget to have `qt6ct-kde` installed.
+
 ## AUR
 Using `paru`:
 ```bash
