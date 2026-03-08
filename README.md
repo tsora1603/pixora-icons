@@ -60,7 +60,7 @@ Want to contribute to the project? Check our [Contributing](CONTRIBUTING.md) and
 # 👥 CREDITS
 - inspired by **MrDeltaMan**: https://github.com/MrDeltaMan/DeltaPixel-Theme
 - original work by **maxtron95**: https://github.com/maxtron95/tuxonpixels-icon-theme
-- fallback and icons by **ItsZariep**: https://github.com/ItsZariep/pixelitos-icon-theme
+- fallback icons by **ItsZariep**: https://github.com/ItsZariep/pixelitos-icon-theme
 
 > ⚠️  Note:
 The pixelitos icon theme is going to be dropped as soon as I develop my own versions of all the icons it covers.
