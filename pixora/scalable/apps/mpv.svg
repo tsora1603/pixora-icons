@@ -1,3 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Generator: visioncortex VTracer -->
-<svg id="svg" version="1.1" xmlns="http://www.w3.org/2000/svg" style="display: block;" viewBox="0 0 512 512"><path d="M0,0 L192,0 L192,32 L256,32 L256,64 L288,64 L288,96 L320,96 L320,160 L352,160 L352,352 L320,352 L320,416 L288,416 L288,448 L256,448 L256,480 L192,480 L192,512 L0,512 L0,480 L-64,480 L-64,448 L-96,448 L-96,416 L-128,416 L-128,352 L-160,352 L-160,160 L-128,160 L-128,96 L-96,96 L-96,64 L-64,64 L-64,32 L0,32 Z " transform="translate(160,0)" style="fill: #6B3E75;"/><path d="M0,0 L160,0 L160,32 L192,32 L192,64 L224,64 L224,224 L192,224 L192,256 L128,256 L128,288 L0,288 L0,256 L-32,256 L-32,224 L-64,224 L-64,64 L-32,64 L-32,32 L0,32 Z " transform="translate(192,128)" style="fill: #FFFFFF;"/><path d="M0,0 L192,0 L192,32 L0,32 Z M-64,32 L0,32 L0,64 L-64,64 Z M192,32 L256,32 L256,64 L192,64 Z M-96,64 L-64,64 L-64,96 L-96,96 Z M256,64 L288,64 L288,96 L256,96 Z M-128,96 L-96,96 L-96,160 L-128,160 Z M288,96 L320,96 L320,160 L288,160 Z M-160,160 L-128,160 L-128,352 L-160,352 Z M320,160 L352,160 L352,352 L320,352 Z M-128,352 L-96,352 L-96,416 L-128,416 Z M288,352 L320,352 L320,416 L288,416 Z M-96,416 L-64,416 L-64,448 L-96,448 Z M256,416 L288,416 L288,448 L256,448 Z M-64,448 L0,448 L0,480 L-64,480 Z M192,448 L256,448 L256,480 L192,480 Z M0,480 L192,480 L192,512 L0,512 Z " transform="translate(160,0)" style="fill: #3E3546;"/><path d="M0,0 L192,0 L192,32 L256,32 L256,64 L32,64 L32,96 L0,96 L0,128 L-32,128 L-32,160 L-64,160 L-64,320 L-32,320 L-32,352 L0,352 L0,384 L-64,384 L-64,352 L-96,352 L-96,320 L-128,320 L-128,128 L-96,128 L-96,64 L-64,64 L-64,32 L0,32 Z M256,64 L288,64 L288,96 L256,96 Z M0,384 L32,384 L32,416 L0,416 Z " transform="translate(160,32)" style="fill: #905EA9;"/><path d="M0,0 L32,0 L32,32 L64,32 L64,64 L96,64 L96,96 L128,96 L128,128 L96,128 L96,160 L64,160 L64,192 L32,192 L32,224 L0,224 Z " transform="translate(224,160)" style="fill: #6B3E75;"/><path d="M0,0 L32,0 L32,32 L0,32 Z M352,0 L384,0 L384,32 L352,32 Z M32,32 L96,32 L96,64 L32,64 Z M288,32 L352,32 L352,64 L288,64 Z M96,64 L288,64 L288,96 L96,96 Z " transform="translate(64,384)" style="fill: #484A77;"/><path d="M0,0 L192,0 L192,32 L0,32 Z M-64,32 L0,32 L0,64 L-64,64 Z M192,32 L256,32 L256,64 L192,64 Z M-96,64 L-64,64 L-64,96 L-96,96 Z M256,64 L288,64 L288,96 L256,96 Z " transform="translate(160,32)" style="fill: #A884F3;"/><path d="M0,0 L32,0 L32,32 L0,32 Z M32,32 L64,32 L64,64 L32,64 Z M64,64 L96,64 L96,96 L64,96 Z " transform="translate(384,96)" style="fill: #905EA9;"/></svg>
+<svg width="512" height="512" version="1.1" xmlns="http://www.w3.org/2000/svg">
+<path d="m192 128h128v32h32v32h32v128h-32v32h-32v32h-128v-32h-32v-32h-32v-128h32v-32h32zm32 64v128h32v-32h32v-64h-32v-32z" fill="#fff"/>
+<path d="m192 64h160v32h32v32h32v32h32v160h-32v32h-32v32h-32v32h-160v-32h128v-32h32v-32h32v-128h-32v-32h-32v-32h-128v32h-32v32h-32v128h-32v-160h32v-32h32v-32h32z" fill="#6b3e75"/>
+<path d="m96 96h64v32h-32v32h-32v160h32v32h32v32h32v32h160v32h-192v-32h-64v-32h-32v-32h-32v-192h32v-32h32z" fill="#905ea9"/>
+<path d="m448 160h32v192h-32v32h-32v32h-64v-32h32v-32h32v-32h32z" fill="#905ea9"/>
+<path d="m160 480h192v32h-192z" fill="#3e3546"/>
+<path d="m160 448h192v32h-192z" fill="#6b3e75"/>
+<path d="m224 192h32v32h32v64h-32v32h-32z" fill="#6b3e75"/>
+<path d="m480 160h32v192h-32z" fill="#3e3546"/>
+<path d="m0 160h32v192h-32z" fill="#3e3546"/>
+<path d="m160 32h192v32h-192z" fill="#a884f3"/>
+<path d="m160 0h192v32h-192z" fill="#3e3546"/>
+<path d="m352 448h64v32h-64z" fill="#3e3546"/>
+<path d="m96 448h64v32h-64z" fill="#3e3546"/>
+<path d="m352 416h64v32h-64z" fill="#6b3e75"/>
+<path d="m96 416h64v32h-64z" fill="#6b3e75"/>
+<path d="m448 352h32v64h-32z" fill="#3e3546"/>
+<path d="m32 352h32v64h-32z" fill="#3e3546"/>
+<path d="m448 96h32v64h-32z" fill="#3e3546"/>
+<path d="m32 96h32v64h-32z" fill="#3e3546"/>
+<path d="m352 64h64v32h-64z" fill="#a884f3"/>
+<path d="m96 64h64v32h-64z" fill="#a884f3"/>
+<path d="m352 32h64v32h-64z" fill="#3e3546"/>
+<path d="m96 32h64v32h-64z" fill="#3e3546"/>
+<path d="m416 416h32v32h-32z" fill="#3e3546"/>
+<path d="m64 416h32v32h-32z" fill="#3e3546"/>
+<path d="m416 384h32v32h-32z" fill="#6b3e75"/>
+<path d="m64 384h32v32h-32z" fill="#6b3e75"/>
+<path d="m160 352h32v32h-32z" fill="#6b3e75"/>
+<path d="m128 320h32v32h-32z" fill="#6b3e75"/>
+<path d="m416 128h32v32h-32z" fill="#905ea9"/>
+<path d="m416 96h32v32h-32z" fill="#a884f3"/>
+<path d="m384 96h32v32h-32z" fill="#905ea9"/>
+<path d="m64 96h32v32h-32z" fill="#a884f3"/>
+<path d="m416 64h32v32h-32z" fill="#3e3546"/>
+<path d="m160 64h32v32h-32z" fill="#905ea9"/>
+<path d="m64 64h32v32h-32z" fill="#3e3546"/>
+</svg>
