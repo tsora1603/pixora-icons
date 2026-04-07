@@ -1,5 +1,5 @@
 [Icon Theme]
-Name=Pixora
+Name=Pixora-icons
 Comment=16 bit icon theme, pixelitos-icon-theme as fallback
 Inherits=pixelitos-dark,breeze-dark,hicolor
 Directories=scalable/apps,scalable/places,scalable/categories,scalable/mimetypes
