@@ -1,0 +1,33 @@
+[Icon Theme]
+Name=Pixora Dark
+Comment=16 bit icon theme
+Inherits=hicolor
+Directories=scalable/apps,scalable/places,scalable/categories,scalable/mimetypes
+
+[scalable/apps]
+Size=16
+Context=Applications
+Type=Scalable
+MinSize=8
+MaxSize=512
+
+[scalable/places]
+Size=16
+Context=Places
+Type=Scalable
+MinSize=8
+MaxSize=512
+
+[scalable/categories]
+Size=16
+Context=Categories
+Type=Scalable
+MinSize=8
+MaxSize=512
+
+[scalable/mimetypes]
+Size=16
+Context=MimeTypes
+Type=Scalable
+MinSize=8
+MaxSize=512
