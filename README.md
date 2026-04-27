@@ -36,7 +36,7 @@ yay -S pixora-icons-git
 ### 1. Clone the repo 
 ```bash
 git clone https://github.com/tsora1603/pixora-icons.git
-cd pixora-icons
+cd scripts
 ```
 
 ### 2. Launch the installation script
