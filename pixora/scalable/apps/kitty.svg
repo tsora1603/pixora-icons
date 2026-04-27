@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1"
+   width="16"
+   height="16"
+   viewBox="0 0 16 16"
+   sodipodi:docname="kitty.svg"
+   inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.8984375"
+     inkscape:cx="256"
+     inkscape:cy="256"
+     inkscape:window-width="1861"
+     inkscape:window-height="1058"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g1">
+    <inkscape:page
+       x="0"
+       y="0"
+       width="16"
+       height="16"
+       id="page2"
+       margin="0"
+       bleed="0" />
+  </sodipodi:namedview>
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g1">
+    <g
+       id="g2"
+       transform="scale(0.03125)">
+      <path
+         style="fill:#fefefe"
+         d="m 176,416 h -16 v -16 -16 h 16 16 v -16 -16 h -16 -16 v -16 -16 h 16 16 v 16 16 h 16 16 v 16 16 h -16 -16 v 16 16 z m 128,0 h -48 v -16 -16 h 48 48 v 16 16 z M 256,224 h -32 v -16 -16 h 32 32 v 16 16 z m -80,-32 h -16 v -32 -32 h 16 16 v 32 32 z m 160,0 h -16 v -32 -32 h 16 16 v 32 32 z"
+         id="path11" />
+      <path
+         style="fill:#90da68"
+         d="m 208,192 h -16 v -32 -32 h 16 16 v 32 32 z m 96,0 h -16 v -32 -32 h 16 16 v 32 32 z"
+         id="path10" />
+      <path
+         style="fill:#aa9379"
+         d="M 64,224 H 32 v -16 -16 h 32 32 v 16 16 z m 384,0 h -32 v -16 -16 h 32 32 v 16 16 z"
+         id="path9" />
+      <path
+         style="fill:#cc673c"
+         d="M 256,96 H 160 V 80 64 H 112 64 V 48 32 h 48 48 v 16 16 h 96 96 V 48 32 h 48 48 v 16 16 h -48 -48 v 16 16 z"
+         id="path8" />
+      <path
+         style="fill:#956b6b"
+         d="M 80,256 H 32 v -16 -16 h 32 32 v -16 -16 h 16 16 v 32 32 z m 352,0 h -48 v -32 -32 h 16 16 v 16 16 h 32 32 v 16 16 z"
+         id="path7" />
+      <path
+         style="fill:#9d4438"
+         d="M 176,224 H 128 V 208 192 H 112 96 v -16 -16 h 16 16 V 144 128 H 112 96 V 112 96 H 80 64 V 80 64 h 48 48 v 16 16 h 96 96 V 80 64 h 48 48 v 16 16 h -16 -16 v 16 16 h -16 -16 v 16 16 h 16 16 v 16 16 h -16 -16 v 16 16 h -48 -48 v -16 -16 h -32 -32 v 16 16 z m 0,-32 h 48 v -32 -32 h -32 -32 v 16 16 h -16 -16 v 16 16 z m 160,0 h 48 v -16 -16 h -16 -16 v -16 -16 h -32 -32 v 32 32 z"
+         id="path6" />
+      <path
+         style="fill:#615464"
+         d="M 256,480 H 128 v -16 -16 h 128 128 v 16 16 z m 0,-224 H 128 v -16 -16 h 128 128 v 16 16 z"
+         id="path5" />
+      <path
+         style="fill:#792f44"
+         d="M 16,224 H 0 V 208 192 H 16 32 V 176 160 H 16 0 V 144 128 H 16 32 V 112 96 h 32 32 v 16 16 h 16 16 v 16 16 h 16 16 v 16 16 H 144 128 V 176 160 H 112 96 v 16 16 H 64 32 v 16 16 z M 64,160 H 96 V 144 128 H 64 32 v 16 16 z m 432,64 h -16 v -16 -16 h -32 -32 v -16 -16 h -16 -16 v 16 16 h -16 -16 v -16 -16 h 16 16 v -16 -16 h 16 16 V 112 96 h 32 32 v 16 16 h 16 16 v 16 16 h -16 -16 v 16 16 h 16 16 v 16 16 z m -48,-64 h 32 v -16 -16 h -32 -32 v 16 16 z"
+         id="path4" />
+      <path
+         style="fill:#3d3445"
+         d="M 256,512 H 64 V 400 288 H 48 32 V 272 256 H 16 0 v -16 -16 h 16 16 v 16 16 h 224 224 v -16 -16 h 16 16 v 16 16 h -16 -16 v 16 16 h -16 -16 v 112 112 z m 0,-32 H 384 V 384 288 H 256 128 v 96 96 z M 16,192 H 0 V 176 160 H 16 32 V 144 128 H 16 0 V 112 96 H 16 32 V 64 32 H 48 64 V 16 0 h 48 48 v 16 16 h 96 96 V 16 0 h 48 48 v 16 16 h 16 16 v 32 32 h 16 16 v 16 16 h -16 -16 v 16 16 h 16 16 v 16 16 h -16 -16 v -16 -16 h -32 -32 v -16 -16 h 32 32 V 112 96 H 464 448 V 64 32 H 400 352 V 48 64 H 256 160 V 48 32 H 112 64 V 64 96 H 48 32 v 16 16 h 32 32 v 16 16 H 64 32 v 16 16 z"
+         id="path3" />
+      <path
+         style="fill:#000000"
+         d="M 256,448 H 128 v -80 -80 h 128 128 v 80 80 z m -80,-32 h 16 v -16 -16 h 16 16 v -16 -16 h -16 -16 v -16 -16 h -16 -16 v 16 16 h 16 16 v 16 16 h -16 -16 v 16 16 z m 128,0 h 48 v -16 -16 h -48 -48 v 16 16 z"
+         id="path2" />
+    </g>
+  </g>
+</svg>

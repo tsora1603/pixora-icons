@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generator: visioncortex VTracer 0.6.12 -->
+<svg width="512" height="512" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <path transform="translate(128)" d="m0 0h256v32h32v64h32v64h32v32h32v288h-32v32h-448v-32h-32v-320h32v-32h32v-32h32v-64h32v-32z" fill="#1EBC73"/>
+ <path transform="translate(480,192)" d="m0 0h32v288h-32v32h-448v-64h256v-96h64v-96h-32v32h-128v-64h288v-32z" fill="#1EBC73"/>
+ <path transform="translate(128)" d="m0 0h256v32h32v128h-256v-32h-64v-96h32v-32z" fill="#fff"/>
+ <path transform="translate(160,256)" d="m0 0h32v32h128v-32h32v96h-64v64h-64v-32h-32v-32h-32v-96z" fill="#fff"/>
+ <path transform="translate(96,96)" d="m0 0h320v64h-256v-32h-64v-32z" fill="#fff"/>
+ <path transform="translate(32,480)" d="m0 0h448v32h-448v-32z" fill="#3E3546"/>
+ <path transform="translate(32,448)" d="m0 0h448v32h-448v-32z" fill="#0B8A8F"/>
+ <path transform="translate(416,96)" d="m0 0h32v64h32v32h-320v-32h256v-64z" fill="#3E3546"/>
+ <path transform="translate(96,32)" d="m0 0h32v32h256v-32h32v64h-320v-64z" fill="#E3C896"/>
+ <path transform="translate(160,192)" d="m0 0h320v32h-320v-32z" fill="#91DB69"/>
+ <path transform="translate(0,160)" d="m0 0h32v320h-32v-320z" fill="#3E3546"/>
+ <path transform="translate(192,224)" d="m0 0h160v32h-32v32h-128v-64z" fill="#1EBC73"/>
+ <path transform="translate(480,192)" d="m0 0h32v288h-32v-288z" fill="#3E3546"/>
+ <path transform="translate(160,128)" d="m0 0h256v32h-256v-32z" fill="#E3C896"/>
+ <path transform="translate(128)" d="m0 0h256v32h-256v-32z" fill="#3E3546"/>
+ <path transform="translate(64,96)" d="m0 0h32v32h64v32h-128v-32h32v-32z" fill="#3E3546"/>
+ <path transform="translate(192,256)" d="m0 0h128v32h-128v-32z" fill="#3E3546"/>
+ <path transform="translate(32,160)" d="m0 0h128v32h-128v-32z" fill="#91DB69"/>
+ <path transform="translate(288,352)" d="m0 0h64v32h-32v32h-32v-64z" fill="#3E3546"/>
+ <path transform="translate(352,256)" d="m0 0h32v96h-32v-96z" fill="#3E3546"/>
+ <path transform="translate(128,256)" d="m0 0h32v96h-32v-96z" fill="#3E3546"/>
+ <path transform="translate(224,416)" d="m0 0h64v32h-64v-32z" fill="#3E3546"/>
+ <path transform="translate(384,32)" d="m0 0h32v64h-32v-64z" fill="#3E3546"/>
+ <path transform="translate(96,32)" d="m0 0h32v64h-32v-64z" fill="#3E3546"/>
+ <path transform="translate(192,384)" d="m0 0h32v32h-32v-32z" fill="#3E3546"/>
+ <path transform="translate(192,352)" d="m0 0h32v32h-32v-32z" fill="#E3C896"/>
+ <path transform="translate(160,352)" d="m0 0h32v32h-32v-32z" fill="#3E3546"/>
+ <path transform="translate(320,224)" d="m0 0h32v32h-32v-32z" fill="#3E3546"/>
+ <path transform="translate(160,224)" d="m0 0h32v32h-32v-32z" fill="#3E3546"/>
+</svg>

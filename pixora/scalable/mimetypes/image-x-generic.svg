@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generator: visioncortex VTracer 0.6.12 -->
+<svg width="512" height="512" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <path transform="translate(0)" d="m0 0h512v512h-512v-512z" fill="#484A77"/>
+ <path transform="translate(160,192)" d="m0 0h32v32h32v32h32v32h32v32h32v-32h32v-32h32v-32h32v32h32v32h32v160h-32v32h-384v-32h-32v-128h32v-32h32v-32h32v-32h32v-32z" fill="#0B8A8F"/>
+ <path transform="translate(0)" d="m0 0h512v512h-512v-512zm64 32v64h-32v352h32v32h384v-32h32v-384h-32v-32h-384z" fill="#3E3546"/>
+ <path transform="translate(384,224)" d="m0 0h32v32h32v32h32v160h-64v-32h-32v-32h-32v-32h-32v-64h32v-32h32v-32z" fill="#0B5E65"/>
+ <path transform="translate(64,64)" d="m0 0h64v32h32v32h32v32h-160v-64h32v-32z" fill="#4D65B4"/>
+ <path transform="translate(288,96)" d="m0 0h64v64h-32v32h-32v-96z" fill="#625565"/>
+ <path transform="translate(352,96)" d="m0 0h32v96h-64v-32h32v-64z" fill="#3E3546"/>
+ <path transform="translate(416,448)" d="m0 0h32v32h-32v-32z" fill="#1EBC73"/>
+ <path transform="translate(384,416)" d="m0 0h32v32h-32v-32z" fill="#1EBC73"/>
+ <path transform="translate(352,384)" d="m0 0h32v32h-32v-32z" fill="#1EBC73"/>
+ <path transform="translate(320,352)" d="m0 0h32v32h-32v-32z" fill="#1EBC73"/>
+ <path transform="translate(288,320)" d="m0 0h32v32h-32v-32z" fill="#1EBC73"/>
+ <path transform="translate(32,320)" d="m0 0h32v32h-32v-32z" fill="#1EBC73"/>
+ <path transform="translate(448,288)" d="m0 0h32v32h-32v-32z" fill="#1EBC73"/>
+ <path transform="translate(320,288)" d="m0 0h32v32h-32v-32z" fill="#1EBC73"/>
+ <path transform="translate(256,288)" d="m0 0h32v32h-32v-32z" fill="#1EBC73"/>
+ <path transform="translate(64,288)" d="m0 0h32v32h-32v-32z" fill="#1EBC73"/>
+ <path transform="translate(416,256)" d="m0 0h32v32h-32v-32z" fill="#1EBC73"/>
+ <path transform="translate(352,256)" d="m0 0h32v32h-32v-32z" fill="#1EBC73"/>
+ <path transform="translate(224,256)" d="m0 0h32v32h-32v-32z" fill="#1EBC73"/>
+ <path transform="translate(96,256)" d="m0 0h32v32h-32v-32z" fill="#1EBC73"/>
+ <path transform="translate(384,224)" d="m0 0h32v32h-32v-32z" fill="#1EBC73"/>
+ <path transform="translate(192,224)" d="m0 0h32v32h-32v-32z" fill="#1EBC73"/>
+ <path transform="translate(128,224)" d="m0 0h32v32h-32v-32z" fill="#1EBC73"/>
+ <path transform="translate(160,192)" d="m0 0h32v32h-32v-32z" fill="#1EBC73"/>
+ <path transform="translate(32,64)" d="m0 0h32v32h-32v-32z" fill="#484A77"/>
+</svg>

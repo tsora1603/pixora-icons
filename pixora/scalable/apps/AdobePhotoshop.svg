@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="16px"
+   height="16px"
+   viewBox="0 0 16 16"
+   version="1.1"
+   id="SVGRoot"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="AdobePhotoshop.svg">
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="22.627417"
+     inkscape:cx="8"
+     inkscape:cy="7.40625"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:window-width="1280"
+     inkscape:window-height="753"
+     inkscape:window-x="-6"
+     inkscape:window-y="-6"
+     inkscape:window-maximized="1"
+     inkscape:grid-bbox="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid23" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata13">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="opacity:1;vector-effect:none;fill:#3e3546;fill-opacity:1;paint-order:stroke fill markers"
+       d="M 1 0 L 1 1 L 0 1 L 0 15 L 1 15 L 1 16 L 15 16 L 15 15 L 16 15 L 16 1 L 15 1 L 15 0 L 1 0 z "
+       id="rect25" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#4d9be6;fill-opacity:1;paint-order:stroke fill markers"
+       id="rect30"
+       width="14"
+       height="14"
+       x="1"
+       y="1" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#4d65b4;fill-opacity:1;paint-order:stroke fill markers"
+       id="rect36"
+       width="7"
+       height="7"
+       x="8"
+       y="8" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#8fd3ff;fill-opacity:1;paint-order:stroke fill markers"
+       id="rect38"
+       width="7"
+       height="7"
+       x="1"
+       y="1" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#484a77;fill-opacity:1;paint-order:stroke fill markers"
+       id="rect32"
+       width="12"
+       height="12"
+       x="2"
+       y="2" />
+    <path
+       style="opacity:1;vector-effect:none;fill:#8fd3ff;fill-opacity:1;paint-order:stroke fill markers"
+       d="m 4,5 v 6 H 5 V 9 H 8 V 5 Z M 5,6 H 7 V 8 H 5 Z"
+       id="rect40"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccccc" />
+    <path
+       style="opacity:1;vector-effect:none;fill:#8fd3ff;fill-opacity:1;paint-order:stroke fill markers"
+       d="m 9,6 v 3 h 2 v 1 H 9 v 1 h 3 V 8 H 10 V 7 h 2 V 6 Z"
+       id="rect49"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccc" />
+  </g>
+</svg>

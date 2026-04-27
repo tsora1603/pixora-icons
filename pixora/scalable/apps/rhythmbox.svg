@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="16px"
+   height="16px"
+   viewBox="0 0 16 16"
+   version="1.1"
+   id="SVGRoot"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="rhythmbox.svg">
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="22.627417"
+     inkscape:cx="11.419586"
+     inkscape:cy="7.0606656"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:window-width="1280"
+     inkscape:window-height="753"
+     inkscape:window-x="-6"
+     inkscape:window-y="-6"
+     inkscape:window-maximized="1"
+     inkscape:grid-bbox="true"
+     showguides="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid23" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata13">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="opacity:1;vector-effect:none;fill:#3e3546;fill-opacity:1;paint-order:stroke fill markers"
+       id="rect139"
+       width="14"
+       height="14"
+       x="1"
+       y="1" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#3e3546;fill-opacity:1;paint-order:stroke fill markers"
+       id="rect141"
+       width="12"
+       height="16"
+       x="2"
+       y="0" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#ab947a;fill-opacity:1;paint-order:stroke fill markers"
+       id="rect143"
+       width="12"
+       height="14"
+       x="2"
+       y="1" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#966c6c;fill-opacity:1;paint-order:stroke fill markers"
+       id="rect145"
+       width="12"
+       height="1"
+       x="2"
+       y="14" />
+    <path
+       style="opacity:1;vector-effect:none;fill:#625565;fill-opacity:1;paint-order:stroke fill markers"
+       d="M 6 2 L 6 4 L 5 4 L 5 5 L 3 5 L 3 9 L 5 9 L 5 10 L 6 10 L 6 12 L 10 12 L 10 10 L 11 10 L 11 9 L 13 9 L 13 5 L 11 5 L 11 4 L 10 4 L 10 2 L 6 2 z "
+       id="rect659" />
+    <path
+       style="opacity:1;vector-effect:none;fill:#3e3546;fill-opacity:1;paint-order:stroke fill markers"
+       d="M 6 2 L 6 3 L 10 3 L 10 2 L 6 2 z M 10 3 L 10 4 L 11 4 L 11 3 L 10 3 z M 11 4 L 11 5 L 12 5 L 12 4 L 11 4 z M 12 5 L 12 9 L 13 9 L 13 5 L 12 5 z M 12 9 L 11 9 L 11 10 L 12 10 L 12 9 z M 11 10 L 10 10 L 10 11 L 11 11 L 11 10 z M 10 11 L 6 11 L 6 12 L 10 12 L 10 11 z M 6 11 L 6 10 L 5 10 L 5 11 L 6 11 z M 5 10 L 5 9 L 4 9 L 4 10 L 5 10 z M 4 9 L 4 5 L 3 5 L 3 9 L 4 9 z M 4 5 L 5 5 L 5 4 L 4 4 L 4 5 z M 5 4 L 6 4 L 6 3 L 5 3 L 5 4 z "
+       id="rect634" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#fbb954;fill-opacity:1;paint-order:stroke fill markers"
+       id="rect666"
+       width="2"
+       height="6"
+       x="7"
+       y="4" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#fbb954;fill-opacity:1;paint-order:stroke fill markers"
+       id="rect668"
+       width="6"
+       height="2"
+       x="5"
+       y="6" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#fbb954;fill-opacity:1;paint-order:stroke fill markers"
+       id="rect670"
+       width="4"
+       height="4"
+       x="6"
+       y="5" />
+    <path
+       style="opacity:1;vector-effect:none;fill:#fbff86;fill-opacity:1;paint-order:stroke fill markers"
+       d="M 7 5 L 7 6 L 6 6 L 6 8 L 7 8 L 7 9 L 9 9 L 9 8 L 10 8 L 10 6 L 9 6 L 9 5 L 7 5 z "
+       id="rect674" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#3e3546;fill-opacity:1;paint-order:stroke fill markers"
+       id="rect672"
+       width="2"
+       height="2"
+       x="7"
+       y="6" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#e3c896;fill-opacity:1;paint-order:stroke fill markers"
+       id="rect679"
+       width="12"
+       height="1"
+       x="2"
+       y="1" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#3e3546;fill-opacity:1;paint-order:stroke fill markers"
+       id="rect681"
+       width="2"
+       height="2"
+       x="3"
+       y="12" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#3e3546;fill-opacity:1;paint-order:stroke fill markers"
+       id="rect683"
+       width="2"
+       height="2"
+       x="11"
+       y="12" />
+  </g>
+</svg>

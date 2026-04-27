@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generator: visioncortex VTracer 0.6.12 -->
+<svg width="512" height="512" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <path transform="translate(0)" d="m0 0h512v512h-512v-512z" fill="#484A77"/>
+ <path transform="translate(0)" d="m0 0h512v512h-512v-512zm64 32v64h-32v352h32v32h256v-32h160v-128h-32v-32h32v-224h-32v-32h-384z" fill="#3E3546"/>
+ <path transform="translate(160,192)" d="m0 0h32v32h32v32h32v32h32v32h32v64h-32v64h32v32h-256v-32h-32v-128h32v-32h32v-32h32v-32h32v-32z" fill="#0B8A8F"/>
+ <path transform="translate(64,64)" d="m0 0h64v32h32v32h32v32h-160v-64h32v-32z" fill="#4D65B4"/>
+ <path transform="translate(352,352)" d="m0 0h96v64h-32v32h-64v-96z" fill="#966C6C"/>
+ <path transform="translate(384,224)" d="m0 0h32v32h32v64h-64v-32h-32v-32h32v-32z" fill="#0B5E65"/>
+ <path transform="translate(448,320)" d="m0 0h32v128h-64v-32h32v-96z" fill="#966C6C"/>
+ <path transform="translate(288,96)" d="m0 0h64v64h-32v32h-32v-96z" fill="#625565"/>
+ <path transform="translate(288,384)" d="m0 0h64v64h-64v-64z" fill="#625565"/>
+ <path transform="translate(352,96)" d="m0 0h32v96h-64v-32h32v-64z" fill="#3E3546"/>
+ <path transform="translate(288,384)" d="m0 0h32v64h-32v-64z" fill="#3E3546"/>
+ <path transform="translate(416,352)" d="m0 0h32v64h-32v-64z" fill="#fff"/>
+ <path transform="translate(352,352)" d="m0 0h32v64h-32v-64z" fill="#fff"/>
+ <path transform="translate(384,320)" d="m0 0h64v32h-64v-32z" fill="#3E3546"/>
+ <path transform="translate(320,320)" d="m0 0h32v64h-32v-64z" fill="#3E3546"/>
+ <path transform="translate(416,416)" d="m0 0h32v32h-32v-32z" fill="#FB6B1D"/>
+ <path transform="translate(352,320)" d="m0 0h32v32h-32v-32z" fill="#966C6C"/>
+ <path transform="translate(288,320)" d="m0 0h32v32h-32v-32z" fill="#1EBC73"/>
+ <path transform="translate(32,320)" d="m0 0h32v32h-32v-32z" fill="#1EBC73"/>
+ <path transform="translate(352,288)" d="m0 0h32v32h-32v-32z" fill="#3E3546"/>
+ <path transform="translate(320,288)" d="m0 0h32v32h-32v-32z" fill="#1EBC73"/>
+ <path transform="translate(256,288)" d="m0 0h32v32h-32v-32z" fill="#1EBC73"/>
+ <path transform="translate(64,288)" d="m0 0h32v32h-32v-32z" fill="#1EBC73"/>
+ <path transform="translate(416,256)" d="m0 0h32v32h-32v-32z" fill="#1EBC73"/>
+ <path transform="translate(352,256)" d="m0 0h32v32h-32v-32z" fill="#1EBC73"/>
+ <path transform="translate(224,256)" d="m0 0h32v32h-32v-32z" fill="#1EBC73"/>
+ <path transform="translate(96,256)" d="m0 0h32v32h-32v-32z" fill="#1EBC73"/>
+ <path transform="translate(384,224)" d="m0 0h32v32h-32v-32z" fill="#1EBC73"/>
+ <path transform="translate(192,224)" d="m0 0h32v32h-32v-32z" fill="#1EBC73"/>
+ <path transform="translate(128,224)" d="m0 0h32v32h-32v-32z" fill="#1EBC73"/>
+ <path transform="translate(160,192)" d="m0 0h32v32h-32v-32z" fill="#1EBC73"/>
+ <path transform="translate(32,64)" d="m0 0h32v32h-32v-32z" fill="#484A77"/>
+</svg>

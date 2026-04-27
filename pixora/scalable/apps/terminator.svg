@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="16px"
+   height="16px"
+   viewBox="0 0 16 16"
+   version="1.1"
+   id="SVGRoot"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="terminator.svg">
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="22.627417"
+     inkscape:cx="0.59747589"
+     inkscape:cy="6.9864053"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:window-width="1280"
+     inkscape:window-height="753"
+     inkscape:window-x="-6"
+     inkscape:window-y="-6"
+     inkscape:window-maximized="1"
+     inkscape:grid-bbox="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid23" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata13">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="opacity:1;vector-effect:none;fill:#3e3546;fill-opacity:1;paint-order:stroke fill markers"
+       id="rect393"
+       width="16"
+       height="14"
+       x="0"
+       y="1" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#966c6c;fill-opacity:1;paint-order:stroke fill markers"
+       id="rect395"
+       width="14"
+       height="12"
+       x="1"
+       y="2" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#3e3546;fill-opacity:1;paint-order:stroke fill markers"
+       id="rect397"
+       width="10"
+       height="8"
+       x="3"
+       y="4" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#ab947a;fill-opacity:1;paint-order:stroke fill markers"
+       id="rect399"
+       width="14"
+       height="1"
+       x="1"
+       y="2" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#ab947a;fill-opacity:1;paint-order:stroke fill markers"
+       id="rect401"
+       width="10"
+       height="1"
+       x="3"
+       y="12" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#c32454;fill-opacity:1;paint-order:stroke fill markers"
+       id="rect14"
+       width="8"
+       height="6"
+       x="4"
+       y="5" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#f04f78;fill-opacity:1;paint-order:stroke fill markers"
+       id="rect16"
+       width="4"
+       height="3"
+       x="4"
+       y="5" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#f04f78;fill-opacity:1;paint-order:stroke fill markers"
+       id="rect18"
+       width="4"
+       height="3"
+       x="8"
+       y="8" />
+  </g>
+</svg>

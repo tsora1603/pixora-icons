@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="512" height="384" version="1.1" xmlns="http://www.w3.org/2000/svg">
+<path d="m64 64h96v32h192v-32h96v32h32v128h-32v96h32v32h-96v-64h32v-64h-32v-32h-64v32h-32v32h-64v-32h-32v-32h-64v32h-32v64h32v64h-96v-32h32v-96h-32v-128h32zm32 32v32h-32v32h32v32h32v-32h32v-32h-32v-32zm288 0v32h-32v32h32v32h32v-32h32v-32h-32v-32zm-192 32v32h32v-32zm96 0v32h32v-32z" fill="#966c6c"/>
+<path d="m480 64h32v288h-32z" fill="#3e3546"/>
+<path d="m0 64h32v288h-32z" fill="#3e3546"/>
+<path d="m192 224h32v32h64v-32h32v64h-128z" fill="#3e3546"/>
+<path d="m160 64h192v32h-192z" fill="#ab947a"/>
+<path d="m160 32h192v32h-192z" fill="#3e3546"/>
+<path d="m96 96h32v32h32v32h-32v32h-32v-32h-32v-32h32z" fill="#3e3546"/>
+<path d="m320 224h64v64h-64z" fill="#625565"/>
+<path d="m128 224h64v64h-64z" fill="#625565"/>
+<path d="m384 352h96v32h-96z" fill="#3e3546"/>
+<path d="m32 352h96v32h-96z" fill="#3e3546"/>
+<path d="m320 288h64v64h-32v-32h-32z" fill="#3e3546"/>
+<path d="m128 288h64v32h-32v32h-32z" fill="#3e3546"/>
+<path d="m448 224h32v96h-32z" fill="#625565"/>
+<path d="m32 224h32v96h-32z" fill="#625565"/>
+<path d="m352 32h96v32h-96z" fill="#625565"/>
+<path d="m64 32h96v32h-96z" fill="#625565"/>
+<path d="m352 0h96v32h-96z" fill="#3e3546"/>
+<path d="m64 0h96v32h-96z" fill="#3e3546"/>
+<path d="m384 224h32v64h-32z" fill="#3e3546"/>
+<path d="m96 224h32v64h-32z" fill="#3e3546"/>
+<path d="m320 192h64v32h-64z" fill="#3e3546"/>
+<path d="m128 192h64v32h-64z" fill="#3e3546"/>
+<path d="m384 160h32v32h-32z" fill="#3e3546"/>
+<path d="m416 128h32v32h-32z" fill="#3e3546"/>
+<path d="m384 128h32v32h-32z" fill="#966c6c"/>
+<path d="m352 128h32v32h-32z" fill="#3e3546"/>
+<path d="m288 128h32v32h-32z" fill="#3e3546"/>
+<path d="m192 128h32v32h-32z" fill="#3e3546"/>
+<path d="m384 96h32v32h-32z" fill="#3e3546"/>
+<path d="m448 64h32v32h-32z" fill="#ab947a"/>
+<path d="m32 64h32v32h-32z" fill="#ab947a"/>
+<path d="m448 32h32v32h-32z" fill="#3e3546"/>
+<path d="m32 32h32v32h-32z" fill="#3e3546"/>
+</svg>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="16px"
+   height="16px"
+   viewBox="0 0 16 16"
+   version="1.1"
+   id="SVGRoot"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="inkscape.svg">
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="22.627417"
+     inkscape:cx="8"
+     inkscape:cy="7.40625"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:window-width="1280"
+     inkscape:window-height="753"
+     inkscape:window-x="-6"
+     inkscape:window-y="-6"
+     inkscape:window-maximized="1"
+     inkscape:grid-bbox="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid23" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata13">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="opacity:1;vector-effect:none;fill:#3e3546;fill-opacity:1;paint-order:stroke fill markers"
+       d="M 7,0 V 1 H 6 V 2 H 5 V 3 H 4 V 4 H 3 V 5 H 2 V 6 H 1 V 7 H 0 v 7 h 2 v -1 h 1 v 3 h 3 v -2 h 3 v 1 h 2 v -1 h 1 v -1 h 1 v 1 h 2 v -3 h 1 V 7 H 15 V 6 H 14 V 5 H 13 V 4 H 12 V 3 H 11 V 2 H 10 V 1 H 9 V 0 Z"
+       id="rect182"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccccccccccc" />
+    <path
+       style="opacity:1;vector-effect:none;fill:#625565;fill-opacity:1;paint-order:stroke fill markers"
+       d="M 1 10 L 1 13 L 2 13 L 2 12 L 3 12 L 3 13 L 4 13 L 4 15 L 5 15 L 5 13 L 9 13 L 9 14 L 11 14 L 11 13 L 12 13 L 12 12 L 4 12 L 4 11 L 2 11 L 2 10 L 1 10 z M 12 12 L 13 12 L 13 13 L 14 13 L 14 11 L 13 11 L 12 11 L 12 12 z M 14 11 L 15 11 L 15 10 L 14 10 L 14 11 z "
+       id="rect215" />
+    <path
+       style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;paint-order:stroke fill markers"
+       d="M 7 1 L 7 2 L 6 2 L 6 3 L 5 3 L 5 4 L 6 4 L 6 5 L 7 5 L 7 6 L 8 6 L 8 5 L 9 5 L 9 4 L 10 4 L 10 5 L 12 5 L 12 4 L 11 4 L 11 3 L 10 3 L 10 2 L 9 2 L 9 1 L 7 1 z M 5 4 L 4 4 L 4 5 L 5 5 L 5 4 z "
+       id="rect234" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#625565;fill-opacity:1;paint-order:stroke fill markers"
+       id="rect249"
+       width="1"
+       height="1"
+       x="4"
+       y="12" />
+    <path
+       style="opacity:1;vector-effect:none;fill:#e3c896;fill-opacity:1;paint-order:stroke fill markers"
+       d="M 5 3 L 5 4 L 6 4 L 6 5 L 7 5 L 7 6 L 8 6 L 8 5 L 9 5 L 9 4 L 7 4 L 7 3 L 5 3 z M 9 4 L 10 4 L 10 5 L 12 5 L 12 4 L 11 4 L 11 3 L 9 3 L 9 4 z M 5 4 L 4 4 L 4 5 L 5 5 L 5 4 z "
+       id="rect257" />
+  </g>
+</svg>

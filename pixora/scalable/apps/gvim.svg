@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="16px"
+   height="16px"
+   viewBox="0 0 16 16"
+   version="1.1"
+   id="SVGRoot"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="vim.svg">
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="32"
+     inkscape:cx="6.9602121"
+     inkscape:cy="7.40625"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:window-width="1280"
+     inkscape:window-height="753"
+     inkscape:window-x="-6"
+     inkscape:window-y="-6"
+     inkscape:window-maximized="1"
+     inkscape:grid-bbox="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid23" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata13">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="opacity:1;vector-effect:none;fill:#3e3546;fill-opacity:1;stroke-width:1.11803401;paint-order:stroke fill markers"
+       d="M 7 0 L 7 1 L 6 1 L 6 2 L 1 2 L 1 5 L 2 5 L 2 6 L 1 6 L 1 7 L 0 7 L 0 9 L 1 9 L 1 10 L 2 10 L 2 11 L 2 16 L 5 16 L 5 15 L 6 15 L 7 15 L 7 16 L 9 16 L 9 15 L 10 15 L 10 14 L 11 14 L 11 13 L 12 13 L 12 12 L 13 12 L 13 11 L 14 11 L 14 10 L 15 10 L 15 9 L 16 9 L 16 7 L 15 7 L 15 6 L 15 5 L 16 5 L 16 2 L 11 2 L 10 2 L 10 1 L 9 1 L 9 0 L 7 0 z "
+       id="rect2022" />
+    <path
+       style="opacity:1;vector-effect:none;fill:#1ebc73;fill-opacity:1;paint-order:stroke fill markers"
+       d="M 7,1 V 2 H 6 V 3 H 5 V 4 H 4 V 5 H 3 V 6 H 2 V 7 H 1 v 2 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 2 v -1 h 1 v -1 h 1 v -1 h 1 v -1 h 1 v -1 h 1 V 9 h 1 V 7 H 14 V 6 H 13 V 5 H 12 V 4 H 11 V 3 H 10 V 2 H 9 V 1 Z"
+       id="rect1071"
+       inkscape:connector-curvature="0" />
+    <path
+       style="opacity:1;vector-effect:none;fill:#91db69;fill-opacity:1;paint-order:stroke fill markers"
+       d="M 7 1 L 7 2 L 9 2 L 9 1 L 7 1 z M 9 2 L 9 3 L 10 3 L 10 2 L 9 2 z M 10 3 L 10 4 L 11 4 L 11 3 L 10 3 z M 11 4 L 11 5 L 12 5 L 12 4 L 11 4 z M 12 5 L 12 6 L 13 6 L 13 5 L 12 5 z M 13 6 L 13 7 L 14 7 L 14 6 L 13 6 z M 7 2 L 6 2 L 6 3 L 7 3 L 7 2 z M 6 3 L 5 3 L 5 4 L 6 4 L 6 3 z M 5 4 L 4 4 L 4 5 L 5 5 L 5 4 z M 4 5 L 3 5 L 3 6 L 4 6 L 4 5 z M 3 6 L 2 6 L 2 7 L 3 7 L 3 6 z "
+       id="rect2027" />
+    <path
+       inkscape:connector-curvature="0"
+       style="opacity:1;vector-effect:none;fill:#0b8a8f;fill-opacity:1;paint-order:stroke fill markers"
+       d="M 9,15 V 14 H 7 v 1 z M 7,14 V 13 H 6 v 1 z M 6,13 V 12 H 5 v 1 z M 5,12 V 11 H 4 v 1 z M 4,11 V 10 H 3 v 1 z M 3,10 V 9 H 2 v 1 z m 6,4 h 1 V 13 H 9 Z m 1,-1 h 1 v -1 h -1 z m 1,-1 h 1 v -1 h -1 z m 1,-1 h 1 v -1 h -1 z m 1,-1 h 1 V 9 h -1 z"
+       id="rect2027-9" />
+    <path
+       style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;paint-order:stroke fill markers"
+       d="m 2,3 v 1 h 1 v 11 h 2 v -1 h 1 v -1 h 1 v -1 h 1 v -1 h 1 v -1 h 1 V 9 h 1 V 8 h 1 V 7 h 1 V 6 h 1 V 4 h 1 V 3 h -4 v 1 h 1 V 5 H 11 V 6 H 10 V 7 H 9 V 8 H 8 V 9 H 7 v 1 H 6 v 1 H 5 V 4 H 6 V 3 Z"
+       id="rect1085"
+       inkscape:connector-curvature="0" />
+    <path
+       style="opacity:1;vector-effect:none;fill:#e3c896;fill-opacity:1;paint-order:stroke fill markers"
+       d="M 13 5 L 13 6 L 14 6 L 14 5 L 13 5 z M 13 6 L 12 6 L 12 7 L 13 7 L 13 6 z M 12 7 L 11 7 L 11 8 L 12 8 L 12 7 z M 11 8 L 10 8 L 10 9 L 11 9 L 11 8 z M 10 9 L 9 9 L 9 10 L 10 10 L 10 9 z M 9 10 L 8 10 L 8 11 L 9 11 L 9 10 z M 8 11 L 7 11 L 7 12 L 8 12 L 8 11 z M 7 12 L 6 12 L 6 13 L 7 13 L 7 12 z M 6 13 L 5 13 L 5 14 L 6 14 L 6 13 z M 5 14 L 3 14 L 3 15 L 5 15 L 5 14 z "
+       id="rect2065" />
+  </g>
+</svg>

@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="16px"
+   height="16px"
+   viewBox="0 0 16 16"
+   version="1.1"
+   id="SVGRoot"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="software-store.svg">
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="22.627417"
+     inkscape:cx="-0.33316537"
+     inkscape:cy="5.7090647"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:window-width="1280"
+     inkscape:window-height="753"
+     inkscape:window-x="-6"
+     inkscape:window-y="-6"
+     inkscape:window-maximized="1"
+     inkscape:grid-bbox="true"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid23" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata13">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="opacity:1;vector-effect:none;fill:#3e3546;fill-opacity:1;paint-order:stroke fill markers"
+       d="M 5 0 L 5 1 L 4 1 L 4 2 L 3 2 L 3 5 L 1 5 L 1 6 L 0 6 L 0 16 L 16 16 L 16 6 L 15 6 L 15 5 L 13 5 L 13 2 L 12 2 L 12 1 L 11 1 L 11 0 L 5 0 z M 6 3 L 10 3 L 10 5 L 6 5 L 6 3 z "
+       id="rect362" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;paint-order:stroke fill markers"
+       id="rect313"
+       width="14"
+       height="9"
+       x="1"
+       y="6" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#e3c896;fill-opacity:1;paint-order:stroke fill markers"
+       id="rect315"
+       width="14"
+       height="1"
+       x="1"
+       y="14" />
+    <path
+       style="opacity:1;vector-effect:none;fill:#8fd3ff;fill-opacity:1;paint-order:stroke fill markers"
+       d="M 6 7 L 6 8 L 5 8 L 5 12 L 6 12 L 6 13 L 10 13 L 10 12 L 11 12 L 11 8 L 10 8 L 10 7 L 6 7 z "
+       id="rect317" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;paint-order:stroke fill markers"
+       id="rect322"
+       width="2"
+       height="2"
+       x="6"
+       y="8" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;paint-order:stroke fill markers"
+       id="rect324"
+       width="2"
+       height="2"
+       x="8"
+       y="10" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#e3c896;fill-opacity:1;stroke-width:1;paint-order:stroke fill markers"
+       id="rect326"
+       width="1"
+       height="3"
+       x="4"
+       y="2" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#e3c896;fill-opacity:1;stroke-width:1;paint-order:stroke fill markers"
+       id="rect328"
+       width="1"
+       height="3"
+       x="11"
+       y="2" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#e3c896;fill-opacity:1;paint-order:stroke fill markers"
+       id="rect354"
+       width="6"
+       height="1"
+       x="5"
+       y="1" />
+  </g>
+</svg>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="512" height="224" version="1.1" xmlns="http://www.w3.org/2000/svg">
+<path d="m32 32h448v128h-448zm32 32v64h64v-64zm96 0v64h64v-64zm128 0v64h64v-64zm96 0v64h64v-64z" fill="#1ebc73"/>
+<path d="m32 0h448v32h-448z" fill="#3e3546"/>
+<path d="m288 192h192v32h-192z" fill="#3e3546"/>
+<path d="m32 192h192v32h-192z" fill="#3e3546"/>
+<path d="m288 160h192v32h-192z" fill="#fbff86"/>
+<path d="m32 160h192v32h-192z" fill="#fbff86"/>
+<path d="m480 32h32v160h-32z" fill="#3e3546"/>
+<path d="m0 32h32v160h-32z" fill="#3e3546"/>
+<path d="m384 64h64v64h-64z" fill="#3e3546"/>
+<path d="m288 64h64v64h-64z" fill="#3e3546"/>
+<path d="m160 64h64v64h-64z" fill="#3e3546"/>
+<path d="m64 64h64v64h-64z" fill="#3e3546"/>
+<path d="m224 160h64v32h-64z" fill="#3e3546"/>
+</svg>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="320" height="512" version="1.1" xmlns="http://www.w3.org/2000/svg">
+<path d="m64 0h192v32h32v32h32v416h-32v32h-256v-32h-32v-416h32v-32h32zm32 32v32h-32v32h-32v64h256v-64h-32v-32h-32v-32zm-64 160v64h256v-64zm0 96v64h256v-64zm0 96v64h32v32h192v-32h32v-64z" fill="#3e3546"/>
+<path d="m192 384h64v96h-64z" fill="#1ebc73"/>
+<path d="m128 384h64v96h-64z" fill="#91db69"/>
+<path d="m64 384h64v96h-64z" fill="#1ebc73"/>
+<path d="m192 64h64v96h-64z" fill="#1ebc73"/>
+<path d="m128 64h64v96h-64z" fill="#91db69"/>
+<path d="m64 64h64v96h-64z" fill="#1ebc73"/>
+<path d="m192 288h64v64h-64z" fill="#1ebc73"/>
+<path d="m128 288h64v64h-64z" fill="#91db69"/>
+<path d="m64 288h64v64h-64z" fill="#1ebc73"/>
+<path d="m192 192h64v64h-64z" fill="#1ebc73"/>
+<path d="m128 192h64v64h-64z" fill="#91db69"/>
+<path d="m64 192h64v64h-64z" fill="#1ebc73"/>
+<path d="m96 32h128v32h-128z" fill="#ab947a"/>
+<path d="m256 384h32v64h-32z" fill="#0b8a8f"/>
+<path d="m32 384h32v64h-32z" fill="#0b8a8f"/>
+<path d="m256 288h32v64h-32z" fill="#0b8a8f"/>
+<path d="m32 288h32v64h-32z" fill="#0b8a8f"/>
+<path d="m256 192h32v64h-32z" fill="#0b8a8f"/>
+<path d="m32 192h32v64h-32z" fill="#0b8a8f"/>
+<path d="m256 96h32v64h-32z" fill="#0b8a8f"/>
+<path d="m32 96h32v64h-32z" fill="#0b8a8f"/>
+</svg>

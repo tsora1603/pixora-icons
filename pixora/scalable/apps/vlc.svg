@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="16px"
+   height="16px"
+   viewBox="0 0 16 16"
+   version="1.1"
+   id="SVGRoot"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="vlc.svg">
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="22.627417"
+     inkscape:cx="8"
+     inkscape:cy="7.40625"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:window-width="1280"
+     inkscape:window-height="753"
+     inkscape:window-x="-6"
+     inkscape:window-y="-6"
+     inkscape:window-maximized="1"
+     inkscape:grid-bbox="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid23" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata13">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="opacity:1;vector-effect:none;fill:#3e3546;fill-opacity:1;paint-order:stroke fill markers"
+       d="M 7 0 L 7 1 L 6 1 L 6 2 L 5 2 L 5 4 L 4 4 L 4 8 L 3 8 L 3 10 L 2 10 L 2 12 L 1 12 L 1 13 L 0 13 L 0 15 L 1 15 L 1 16 L 15 16 L 15 15 L 16 15 L 16 13 L 15 13 L 15 12 L 14 12 L 14 10 L 13 10 L 13 8 L 12 8 L 12 4 L 11 4 L 11 2 L 10 2 L 10 1 L 9 1 L 9 0 L 7 0 z "
+       id="rect82" />
+    <path
+       style="opacity:1;vector-effect:none;fill:#fb6b1d;fill-opacity:1;paint-order:stroke fill markers"
+       d="M 7 1 L 7 2 L 6 2 L 6 4 L 5 4 L 5 8 L 4 8 L 4 10 L 3 10 L 3 12 L 2 12 L 2 13 L 1 13 L 1 15 L 15 15 L 15 13 L 14 13 L 14 12 L 13 12 L 13 10 L 12 10 L 12 8 L 11 8 L 11 4 L 10 4 L 10 2 L 9 2 L 9 1 L 7 1 z "
+       id="rect99" />
+    <path
+       style="opacity:1;vector-effect:none;fill:#e3c896;fill-opacity:1;paint-order:stroke fill markers"
+       d="M 6 2 L 6 4 L 7 4 L 7 2 L 6 2 z M 9 2 L 9 4 L 10 4 L 10 2 L 9 2 z M 5 5 L 5 7 L 6 7 L 6 5 L 5 5 z M 10 5 L 10 7 L 11 7 L 11 5 L 10 5 z M 4 8 L 4 10 L 5 10 L 5 8 L 4 8 z M 11 8 L 11 10 L 12 10 L 12 8 L 11 8 z "
+       id="rect114" />
+    <path
+       style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;paint-order:stroke fill markers"
+       d="M 7 3 L 7 4 L 9 4 L 9 3 L 7 3 z M 6 5 L 6 7 L 10 7 L 10 5 L 6 5 z M 5 9 L 5 11 L 11 11 L 11 9 L 5 9 z "
+       id="rect128" />
+    <path
+       style="opacity:1;vector-effect:none;fill:#e83b3b;fill-opacity:1;paint-order:stroke fill markers"
+       d="M 3 10 L 3 11 L 4 11 L 4 12 L 5 12 L 5 13 L 11 13 L 11 12 L 12 12 L 12 11 L 13 11 L 13 10 L 11 10 L 11 11 L 5 11 L 5 10 L 3 10 z M 2 12 L 2 13 L 3 13 L 3 12 L 2 12 z M 2 13 L 1 13 L 1 15 L 2 15 L 14 15 L 15 15 L 15 13 L 14 13 L 14 14 L 2 14 L 2 13 z M 14 13 L 14 12 L 13 12 L 13 13 L 14 13 z "
+       id="rect138" />
+  </g>
+</svg>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1"
+   width="16"
+   height="16"
+   viewBox="0 0 16 16"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <g
+     id="g1">
+    <g
+       id="g2"
+       transform="translate(0.07502931,0.00937867)">
+      <path
+         style="fill:#fefefe"
+         d="M 8,13 H 7 V 12.5 12 H 8 9 V 12.5 13 Z M 4.5,11 H 3 V 9.5 8 H 4.5 6 V 9.5 11 Z m 0,-1 H 5 V 9.5 9 H 4.5 4 V 9.5 10 Z m 7,1 H 10 V 9.5 8 H 11.5 13 V 9.5 11 Z m 0,-1 H 12 V 9.5 9 H 11.5 11 V 9.5 10 Z"
+         id="path7" />
+      <path
+         style="fill:#8ef7e1"
+         d="M 5.5,2 H 2 V 1.5 1 H 5.5 9 V 1.5 2 Z"
+         id="path6" />
+      <path
+         style="fill:#8ed2fe"
+         d="M 8,14 H 2 V 8 2 H 5.5 9 V 4.5 7 H 11.5 14 V 10.5 14 Z M 8,13 H 9 V 12.5 12 H 9.5 10 V 11.5 11 H 11.5 13 V 9.5 8 H 11.5 10 V 9.5 11 H 9.5 9 V 10.5 10 H 8 7 V 10.5 11 H 6.5 6 V 9.5 8 H 4.5 3 V 9.5 11 H 4.5 6 V 11.5 12 H 6.5 7 V 12.5 13 Z M 11.5,5 H 10 V 3.5 2 H 10.5 11 V 2.5 3 H 11.5 12 V 3.5 4 H 12.5 13 V 4.5 5 Z"
+         id="path5" />
+      <path
+         style="fill:#4c9ae5"
+         d="M 8,15 H 2 V 14.5 14 h 6 6 V 14.5 15 Z M 11.5,7 H 9 V 6.5 6 H 11.5 14 V 6.5 7 Z"
+         id="path4" />
+      <path
+         style="fill:#aa9379"
+         d="M 8,12 H 6 V 11.5 11 h 2 2 v 0.5 0.5 z"
+         id="path3" />
+      <path
+         style="fill:#3d3445"
+         d="M 8,16 H 2 V 15.5 15 H 1.5 1 V 8 1 H 1.5 2 V 0.5 0 h 4 4 V 0.5 1 H 10.5 11 V 1.5 2 H 11.5 12 V 2.5 3 H 12.5 13 V 3.5 4 H 13.5 14 V 4.5 5 h 0.5 0.5 v 5 5 H 14.5 14 v 0.5 0.5 z m 0,-1 h 6 V 10.5 6 H 11.5 9 V 3.5 1 H 5.5 2 v 7 7 z M 8,11 H 7 V 10.5 10 H 8 9 V 10.5 11 Z M 4.5,10 H 4 V 9.5 9 H 4.5 5 V 9.5 10 Z m 7,0 H 11 V 9.5 9 H 11.5 12 V 9.5 10 Z m 0,-5 H 13 V 4.5 4 H 12.5 12 V 3.5 3 H 11.5 11 V 2.5 2 H 10.5 10 V 3.5 5 Z"
+         id="path2" />
+    </g>
+  </g>
+</svg>

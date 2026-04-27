@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="16px"
+   height="16px"
+   viewBox="0 0 16 16"
+   version="1.1"
+   id="SVGRoot"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="qbittorrent.svg">
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="22.627417"
+     inkscape:cx="8.1707769"
+     inkscape:cy="6.9864053"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:window-width="1280"
+     inkscape:window-height="753"
+     inkscape:window-x="-6"
+     inkscape:window-y="-6"
+     inkscape:window-maximized="1"
+     inkscape:grid-bbox="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid23" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata13">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       inkscape:connector-curvature="0"
+       style="opacity:1;vector-effect:none;fill:#3e3546;fill-opacity:1;paint-order:stroke fill markers"
+       d="M 5,0 V 1 H 3 V 2 H 2 V 3 H 1 V 5 H 0 v 6 h 1 v 2 h 1 v 1 h 1 v 1 h 2 v 1 h 6 v -1 h 2 v -1 h 1 v -1 h 1 v -2 h 1 V 5 H 15 V 3 H 14 V 2 H 13 V 1 H 11 V 0 Z"
+       id="rect289" />
+    <path
+       style="opacity:1;vector-effect:none;fill:#4d9be6;fill-opacity:1;paint-order:stroke fill markers"
+       d="M 5 1 L 5 2 L 3 2 L 3 3 L 2 3 L 2 5 L 1 5 L 1 7 L 1 11 L 2 11 L 2 13 L 3 13 L 3 14 L 5 14 L 5 15 L 11 15 L 11 14 L 13 14 L 13 13 L 14 13 L 14 11 L 15 11 L 15 7 L 15 5 L 14 5 L 14 3 L 13 3 L 13 2 L 11 2 L 11 1 L 5 1 z "
+       id="rect300" />
+    <path
+       style="opacity:1;vector-effect:none;fill:#4d65b4;fill-opacity:1;paint-order:stroke fill markers"
+       d="M 2 12 L 2 13 L 3 13 L 3 12 L 2 12 z M 3 13 L 3 14 L 5 14 L 5 13 L 3 13 z M 5 14 L 5 15 L 11 15 L 11 14 L 5 14 z M 11 14 L 13 14 L 13 13 L 11 13 L 11 14 z M 13 13 L 14 13 L 14 12 L 13 12 L 13 13 z "
+       id="rect460" />
+    <path
+       style="opacity:1;vector-effect:none;fill:#8fd3ff;fill-opacity:1;paint-order:stroke fill markers"
+       d="M 5 1 L 5 2 L 11 2 L 11 1 L 5 1 z M 11 2 L 11 3 L 13 3 L 13 2 L 11 2 z M 13 3 L 13 4 L 14 4 L 14 3 L 13 3 z M 5 2 L 3 2 L 3 3 L 5 3 L 5 2 z M 3 3 L 2 3 L 2 4 L 3 4 L 3 3 z "
+       id="rect470" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#8fd3ff;fill-opacity:1;stroke-width:1.06904495;paint-order:stroke fill markers"
+       id="rect14"
+       width="1"
+       height="8"
+       x="6"
+       y="5" />
+    <path
+       style="opacity:1;vector-effect:none;fill:#8fd3ff;fill-opacity:1;paint-order:stroke fill markers"
+       d="m 3,6 v 4 H 6 V 9 H 4 V 7 H 6 V 6 Z"
+       id="rect16"
+       inkscape:connector-curvature="0" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke-width:1.06904495;paint-order:stroke fill markers"
+       id="rect14-3"
+       width="1"
+       height="8"
+       x="-10"
+       y="3"
+       transform="scale(-1,1)" />
+    <path
+       inkscape:connector-curvature="0"
+       style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;paint-order:stroke fill markers"
+       d="m 13,7 v 4 h -3 v -1 h 2 V 8 H 10 V 7 Z"
+       id="rect16-6" />
+  </g>
+</svg>

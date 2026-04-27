@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1"
+   width="16"
+   height="16"
+   viewBox="0 0 16 16"
+   sodipodi:docname="okular.svg"
+   inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.8984375"
+     inkscape:cx="256"
+     inkscape:cy="256"
+     inkscape:window-width="1861"
+     inkscape:window-height="1058"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g1">
+    <inkscape:page
+       x="0"
+       y="0"
+       width="16"
+       height="16"
+       id="page2"
+       margin="0"
+       bleed="0" />
+  </sodipodi:namedview>
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g1">
+    <g
+       id="g2"
+       transform="scale(0.03125)">
+      <path
+         style="fill:#fefefe"
+         d="m 192,480 h -32 v -16 -16 h 16 16 v -16 -16 h -32 -32 v -16 -16 h 16 16 V 368 352 H 128 96 V 336 320 H 80 64 V 288 256 H 48 32 V 192 128 H 48 64 V 112 96 h 32 32 V 80 64 h 32 32 v 16 16 h -16 -16 v 64 64 h 16 16 v 32 32 h 16 16 v 16 16 h -32 -32 v 16 16 h 32 32 v 16 16 h -16 -16 v 16 16 h 32 32 v -32 -32 h 32 32 v 16 16 h 48 48 v 16 16 h -32 -32 v 16 16 h -64 -64 v 16 16 z m 272,-96 h -16 v -16 -16 h -32 -32 v -16 -16 h 16 16 v -16 -16 h 32 32 v 16 16 h -16 -16 v 16 16 h 16 16 v 16 16 z M 320,288 h -32 v -16 -16 h -16 -16 v -16 -16 h -16 -16 v -32 -32 h 16 16 V 128 96 h 16 16 V 64 32 h 48 48 v 16 16 h 16 16 v 64 64 h -16 -16 v 32 32 h -16 -16 v 16 16 z"
+         id="path5" />
+      <path
+         style="fill:#4c9ae5"
+         d="M 352,352 H 320 V 336 320 H 272 224 V 304 288 H 208 192 V 256 224 H 176 160 V 160 96 h 16 16 V 64 32 h 48 48 v 32 32 h -16 -16 v 32 32 h -16 -16 v 32 32 h 16 16 v 16 16 h 16 16 v 16 16 h 16 16 v 16 16 h 32 32 v 16 16 z m 32,-64 h -32 v -16 -16 h 16 16 v -32 -32 h 16 16 v -16 -16 h 16 16 v 32 32 h 16 16 v 16 16 h -32 -32 v 16 16 z"
+         id="path4" />
+      <path
+         style="fill:#615464"
+         d="M 16,512 H 0 v -32 -32 h 16 16 v -32 -32 h 32 32 v -16 -16 h 32 32 v -16 -16 h 80 80 v -16 -16 h 48 48 v -16 -16 h 32 32 v 16 16 h 16 16 v 80 80 h -16 -16 v 32 32 h -16 -16 v -32 -32 h 16 16 v -48 -48 h -16 -16 v 16 16 h -64 -64 v -16 -16 h -32 -32 v 32 32 h -32 -32 v 16 16 H 144 96 V 432 416 H 80 64 v 16 16 H 48 32 v 32 32 z m 128,-96 h 48 v -16 -16 h 16 16 v -16 -16 h -32 -32 v 16 16 H 128 96 v 16 16 z m 240,-64 h 64 v -16 -16 h 16 16 v -16 -16 h -32 -32 v 16 16 h -48 -48 v 16 16 z"
+         id="path3" />
+      <path
+         style="fill:#3d3445"
+         d="m 192,512 h -32 v -16 -16 h -16 -16 v -16 -16 h 16 16 v 16 16 h 32 32 v -16 -16 h 64 64 v -16 -16 h 32 32 v -16 -16 h 32 32 v 16 16 h -32 -32 v 16 16 h -32 -32 v 16 16 h -64 -64 v 16 16 z M 112,416 H 96 V 400 384 H 80 64 V 352 320 H 48 32 V 288 256 H 16 0 V 192 128 H 16 32 V 112 96 H 48 64 V 80 64 h 32 32 V 48 32 h 32 32 V 16 0 h 96 96 v 16 16 h 16 16 v 16 16 h 16 16 v 32 32 h 16 16 v 48 48 h 16 16 v 32 32 H 496 480 V 256 224 H 464 448 V 192 160 H 432 416 V 112 64 H 400 384 V 48 32 H 288 192 V 48 64 H 160 128 V 80 96 H 96 64 v 16 16 H 48 32 v 64 64 h 16 16 v 32 32 h 16 16 v 32 32 h 16 16 v 16 16 z"
+         id="path2" />
+    </g>
+  </g>
+</svg>
