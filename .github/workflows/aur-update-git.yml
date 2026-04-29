@@ -24,3 +24,5 @@ jobs:
           aur_key: ${{ secrets.AUR_KEY }}
           username: TheWisker
           email: TheWisker@protonmail.com
+	  ref: 'main'
+	  aur_folder: ./aur
