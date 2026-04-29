@@ -1,4 +1,4 @@
-name: AUR Update Git
+name: pixora-icons-git update
 run-name: AUR package update by ${{ github.actor }} push
 on:
   push:
