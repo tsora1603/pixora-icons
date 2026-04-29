@@ -59,7 +59,7 @@ b. Copy-paste the files in the right directories, allowing for a fully local ins
 <br>
 
 ## 🎨 How to Contribute
-Want to contribute to the project? Check our [Contributing](CONTRIBUTING.md) and [Design](DESIGN.md) Guidelines!
+Want to contribute to the project? Check our [Contributing](CONTRIBUTING.md) Guidelines!
 
 <br>
 
