@@ -34,7 +34,7 @@ Please keep PRs small and focused:
 
 ***These Guidelines are still work-in-progress and are subject to change!***
 
-If you want to make icons for pixora-theme, these guidelines should point you to the right direction. Although they are not that strict, you should still keep them in mind for consistency reasons. <br>
+If you want to make icons for pixora-icons, these guidelines should point you to the right direction. Although they are not that strict, you should still keep them in mind for consistency reasons. <br>
 These guidelines apply to every app, be it Discord, Firefox, Steam (branded apps); or Settings, Accessibility, File Manager (non-branded apps).
 
 ## Taking References
@@ -42,7 +42,7 @@ These guidelines apply to every app, be it Discord, Firefox, Steam (branded apps
 You're free to use any version you want from any app icon for reference, besides the really old ones if the app has been through many rebrandings. Also try to keep the designs consistent with existing ones!
 
 ## Color Palette
-pixora-theme icons use a specific color palette. You can check it out by clicking [here](https://lospec.com/palette-list/resurrect-32)!
+pixora-icons uses a specific color palette. You can check it out by clicking [here](https://lospec.com/palette-list/resurrect-32)!
 This, together with the vectorizing rule, should be the only rule that is very strict. Please refrain from using any color outside of the 32 ones that Resurrect offers, as this would ruin the general aesthetic of your icon when comparing it with the rest.
 
 Be creative with your designs! If you're not that deep into art, many times you'll think that it's impossible to draw an icon without a specific color, but it is very much possible if you try hard enough. 
@@ -90,7 +90,7 @@ When drawing the glyph of any app, try to think which portion of the whole image
 
 ## Vectorizing
 
-Every app icon should be vectorized. Reason being, I think it's way easier to, in this project's case, make every icon a vector and set the theme to `scalable`, than having to make 16, 24, 32, 64px and so on versions of every single icon. The entire vectorizing process is automated by a shell script, so it should be a walk in the park. 
+Every app icon should be vectorized. Reason being, I think it's way easier to, in this project's case, make every icon a vector and set the  to `scalable`, than having to make 16, 24, 32, 64px and so on versions of every single icon. The entire vectorizing process is automated by a shell script, so it should be a walk in the park. 
 
 ### Tutorial:
 
