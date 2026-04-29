@@ -22,6 +22,6 @@ jobs:
         uses: TheWisker/aur-update-git@master
         with:
           aur_key: ${{ secrets.AUR_KEY }}
-          username: TheWisker
-          email: TheWisker@protonmail.com
-	  ref: 'main'
+          username: tsora
+          email: neiva.cesar07@proton.me
+          ref: 'main'
