@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="512" height="384" shape-rendering="crispEdges" version="1.1" viewBox="0 64 512 384" xmlns="http://www.w3.org/2000/svg">
-<path transform="translate(96,96)" d="m0 0h384v288h-384zm224 64v32h-32v32h-32v32h-32v64h32v-32h32v-32h32v-32h32v-64z" fill="#fff"/>
+<path transform="translate(96,96)" d="m0 0h384v288h-384zm224 64v32h-32v32h-32v32h-32v32h-32v32h64v-32h32v-32h32v-32h32v-32h32v-32z" fill="#fff"/>
 <path transform="translate(32,96)" d="m0 0h64v288h-64z" fill="#484A77"/>
 <path transform="translate(32,416)" d="m0 0h448v32h-448z" fill="#3E3546"/>
 <path transform="translate(32,64)" d="m0 0h448v32h-448z" fill="#3E3546"/>
 <path transform="translate(96,384)" d="m0 0h384v32h-384z" fill="#AB947A"/>
+<path transform="translate(320,160)" d="m0 0h64v32h-32v32h-32v32h-32v32h-32v32h-64v-32h32v-32h32v-32h32v-32h32z" fill="#484A77"/>
 <path transform="translate(480,96)" d="m0 0h32v320h-32z" fill="#3E3546"/>
 <path transform="translate(0,96)" d="m0 0h32v320h-32z" fill="#3E3546"/>
-<path transform="translate(320,160)" d="m0 0h32v64h-32v32h-32v32h-32v32h-32v-64h32v-32h32v-32h32z" fill="#484A77"/>
 <path transform="translate(32,384)" d="m0 0h64v32h-64z" fill="#4D65B4"/>
 </svg>
