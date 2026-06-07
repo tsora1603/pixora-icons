@@ -1,13 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="512" height="512" shape-rendering="crispEdges" version="1.1" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
-<path transform="translate(64,64)" d="m0 0h96v160h192v-160h96v416h-96v-160h-192v160h-96zm32 64v32h32v-32zm288 0v32h32v-32zm-288 128v32h32v-32zm288 0v32h32v-32zm-288 128v32h32v-32zm288 0v32h32v-32z" fill="#fff"/>
-<path transform="translate(32,32)" d="m0 0h448v448h-32v-416h-96v160h-192v-160h-96v416h-32z" fill="#3E3546"/>
-<path transform="translate(0)" d="m0 0h512v512h-512zm32 32v448h448v-448z" fill="#625565"/>
-<path transform="translate(160,320)" d="m0 0h192v160h-192z" fill="#3E3546"/>
-<path transform="translate(384,384)" d="m0 0h32v32h-32z" fill="#3E3546"/>
-<path transform="translate(96,384)" d="m0 0h32v32h-32z" fill="#3E3546"/>
-<path transform="translate(384,256)" d="m0 0h32v32h-32z" fill="#3E3546"/>
-<path transform="translate(96,256)" d="m0 0h32v32h-32z" fill="#3E3546"/>
-<path transform="translate(384,128)" d="m0 0h32v32h-32z" fill="#3E3546"/>
-<path transform="translate(96,128)" d="m0 0h32v32h-32z" fill="#3E3546"/>
-</svg>
+haruna.svg
