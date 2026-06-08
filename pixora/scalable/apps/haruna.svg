@@ -1,27 +1,48 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="512" height="512" shape-rendering="crispEdges" version="1.1" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
-<path transform="translate(64,64)" d="m0 0h384v32h32v320h-32v32h-384v-32h-32v-320h32zm32 32v320h32v-32h32v32h32v-128h128v128h32v-32h32v32h32v-320h-96v128h-128v-128z" fill="#484A77"/>
-<path transform="translate(96,96)" d="m0 0h96v128h128v-128h96v320h-32v-32h-32v32h-32v-128h-128v128h-32v-32h-32v32h-32zm32 32v32h32v-32zm224 0v32h32v-32zm-224 64v32h32v-32zm224 0v32h32v-32zm-224 64v32h32v-32zm224 0v32h32v-32zm-224 64v32h32v-32zm224 0v32h32v-32z" fill="#fff"/>
-<path transform="translate(64,480)" d="m0 0h384v32h-384z" fill="#3E3546"/>
-<path transform="translate(64,448)" d="m0 0h384v32h-384z" fill="#625565"/>
-<path transform="translate(480,64)" d="m0 0h32v384h-32z" fill="#3E3546"/>
-<path transform="translate(0,64)" d="m0 0h32v384h-32z" fill="#3E3546"/>
-<path transform="translate(64,32)" d="m0 0h384v32h-384z" fill="#4D65B4"/>
-<path transform="translate(64)" d="m0 0h384v32h-384z" fill="#3E3546"/>
-<path transform="translate(448,448)" d="m0 0h32v32h-32z" fill="#3E3546"/>
-<path transform="translate(32,448)" d="m0 0h32v32h-32z" fill="#3E3546"/>
-<path transform="translate(448,416)" d="m0 0h32v32h-32z" fill="#625565"/>
-<path transform="translate(32,416)" d="m0 0h32v32h-32z" fill="#625565"/>
-<path transform="translate(352,320)" d="m0 0h32v32h-32z" fill="#484A77"/>
-<path transform="translate(128,320)" d="m0 0h32v32h-32z" fill="#484A77"/>
-<path transform="translate(352,256)" d="m0 0h32v32h-32z" fill="#484A77"/>
-<path transform="translate(128,256)" d="m0 0h32v32h-32z" fill="#484A77"/>
-<path transform="translate(352,192)" d="m0 0h32v32h-32z" fill="#484A77"/>
-<path transform="translate(128,192)" d="m0 0h32v32h-32z" fill="#484A77"/>
-<path transform="translate(352,128)" d="m0 0h32v32h-32z" fill="#484A77"/>
-<path transform="translate(128,128)" d="m0 0h32v32h-32z" fill="#484A77"/>
-<path transform="translate(448,64)" d="m0 0h32v32h-32z" fill="#4D65B4"/>
-<path transform="translate(32,64)" d="m0 0h32v32h-32z" fill="#4D65B4"/>
-<path transform="translate(448,32)" d="m0 0h32v32h-32z" fill="#3E3546"/>
-<path transform="translate(32,32)" d="m0 0h32v32h-32z" fill="#3E3546"/>
+<?xml version="1.0" encoding="UTF-8" ?>
+<svg version="1.1" width="16" height="16" xmlns="http://www.w3.org/2000/svg" shape-rendering="crispEdges">
+<rect x="2" y="0" width="12" height="1" fill="#3E3546" />
+<rect x="1" y="1" width="1" height="1" fill="#3E3546" />
+<rect x="2" y="1" width="12" height="1" fill="#966C6C" />
+<rect x="14" y="1" width="1" height="1" fill="#3E3546" />
+<rect x="0" y="2" width="1" height="12" fill="#3E3546" />
+<rect x="1" y="2" width="1" height="1" fill="#966C6C" />
+<rect x="2" y="2" width="12" height="1" fill="#625565" />
+<rect x="14" y="2" width="1" height="1" fill="#966C6C" />
+<rect x="15" y="2" width="1" height="12" fill="#3E3546" />
+<rect x="1" y="3" width="2" height="10" fill="#625565" />
+<rect x="3" y="3" width="3" height="1" fill="#FFFFFF" />
+<rect x="6" y="3" width="4" height="4" fill="#625565" />
+<rect x="10" y="3" width="3" height="1" fill="#FFFFFF" />
+<rect x="13" y="3" width="2" height="10" fill="#625565" />
+<rect x="3" y="4" width="1" height="9" fill="#FFFFFF" />
+<rect x="4" y="4" width="1" height="1" fill="#625565" />
+<rect x="5" y="4" width="1" height="9" fill="#FFFFFF" />
+<rect x="10" y="4" width="1" height="9" fill="#FFFFFF" />
+<rect x="11" y="4" width="1" height="1" fill="#625565" />
+<rect x="12" y="4" width="1" height="9" fill="#FFFFFF" />
+<rect x="4" y="5" width="1" height="1" fill="#FFFFFF" />
+<rect x="11" y="5" width="1" height="1" fill="#FFFFFF" />
+<rect x="4" y="6" width="1" height="1" fill="#625565" />
+<rect x="11" y="6" width="1" height="1" fill="#625565" />
+<rect x="4" y="7" width="1" height="1" fill="#FFFFFF" />
+<rect x="6" y="7" width="4" height="2" fill="#FFFFFF" />
+<rect x="11" y="7" width="1" height="1" fill="#FFFFFF" />
+<rect x="4" y="8" width="1" height="1" fill="#625565" />
+<rect x="11" y="8" width="1" height="1" fill="#625565" />
+<rect x="4" y="9" width="1" height="1" fill="#FFFFFF" />
+<rect x="6" y="9" width="4" height="5" fill="#625565" />
+<rect x="11" y="9" width="1" height="1" fill="#FFFFFF" />
+<rect x="4" y="10" width="1" height="1" fill="#625565" />
+<rect x="11" y="10" width="1" height="1" fill="#625565" />
+<rect x="4" y="11" width="1" height="1" fill="#FFFFFF" />
+<rect x="11" y="11" width="1" height="1" fill="#FFFFFF" />
+<rect x="4" y="12" width="1" height="2" fill="#625565" />
+<rect x="11" y="12" width="1" height="2" fill="#625565" />
+<rect x="1" y="13" width="1" height="2" fill="#3E3546" />
+<rect x="2" y="13" width="2" height="1" fill="#625565" />
+<rect x="5" y="13" width="1" height="1" fill="#625565" />
+<rect x="10" y="13" width="1" height="1" fill="#625565" />
+<rect x="12" y="13" width="2" height="1" fill="#625565" />
+<rect x="14" y="13" width="1" height="2" fill="#3E3546" />
+<rect x="2" y="14" width="12" height="2" fill="#3E3546" />
 </svg>
