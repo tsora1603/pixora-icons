@@ -34,6 +34,10 @@ A pixel-style icon theme for Linux desktop systems that aims to be as faithful a
 > If you use Dolphin as your default file manager and have set `QT_QPA_PLATFORMTHEME=qt6ct`, don't forget to have `qt6ct-kde` installed.
 
 ### Arch Linux
+Using `shelly`:
+```bash
+shelly aur install pixora-icons-git
+```
 Using `paru`:
 ```bash
 paru -S pixora-icons-git
