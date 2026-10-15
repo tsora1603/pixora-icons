@@ -37,6 +37,13 @@ package() {
   find "$pkgdir/usr/share/icons/pixora-dark" -type f -print0 \
     | xargs -r0 chmod 0644
 
+  install -dm755 "$pkgdir/usr/share/icons/pixora-accent"
+  cp -fa "$srcdir/$_pkgname/pixora-accent/"* "$pkgdir/usr/share/icons/pixora-accent/"
+  find "$pkgdir/usr/share/icons/pixora-accent" -type d -print0 \
+    | xargs -r0 chmod 0755
+  find "$pkgdir/usr/share/icons/pixora-accent" -type f -print0 \
+    | xargs -r0 chmod 0644
+
   install -dm755 "$pkgdir/usr/share/doc/$pkgname"
   mv -f "$srcdir/$_pkgname/README.md" \
    "$pkgdir/usr/share/doc/$pkgname/"
