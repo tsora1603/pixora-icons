@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 """Build the optional Pixora Accent theme without changing the original artwork.
 
-KDE recolors the marked SVG paths at render time. This script adapts every
-original folder and its aliases; it is only a development/build tool.
+KDE recolors the marked SVG paths at render time. This script adapts folders
+and their aliases, preserving fixed-color exceptions; it is only a build tool.
 """
 
 import argparse
@@ -18,6 +18,9 @@ SOURCE = ROOT / "pixora" / "scalable"
 DESTINATION = ROOT / "pixora-accent"
 SVG = "http://www.w3.org/2000/svg"
 ET.register_namespace("", SVG)
+
+# These folders keep their original artwork in the Accent theme too.
+FIXED_COLOR_FOLDERS = {"folder-nixos"}
 
 DIRECTORY_CONTEXTS = {
     "apps": "Applications",
@@ -202,7 +205,14 @@ def build_manifest(names):
         if source.is_symlink() or not source.is_file():
             raise ValueError(f"Expected original folder artwork: {name}")
         destination = Path("scalable/places") / source.name
-        files[destination] = render_folder(source)
+        if name in FIXED_COLOR_FOLDERS:
+            # An exact alias prevents KDE from choosing the generic Accent
+            # folder through its name fallback before checking the base theme.
+            links[destination] = os.path.relpath(
+                source, DESTINATION / destination.parent,
+            )
+        else:
+            files[destination] = render_folder(source)
         converted[source.resolve()] = destination
 
     # Override aliases in every context, so inherited symlinks cannot select

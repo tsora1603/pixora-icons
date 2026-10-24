@@ -115,7 +115,7 @@ If you don't have Aseprite, follow the tutorial below to convert your PNGs to SV
 
 ## Folder Icons
 
-Folder icons also need a **Pixora Accent** version to follow the user's KDE accent color. You only need to draw the original icon — `generate-accent.py` creates the Accent version for you!
+Most folder icons also need a **Pixora Accent** version to follow the user's KDE accent color. You only need to draw the original icon — `generate-accent.py` creates the Accent version for you! `folder-nixos` keeps its original colors in both versions.
 
 Start from an existing folder on the **16x16 grid** and keep its shape. Use `#E3C896` for the body, `#AB947A` for the glyph and `#3E3546` for its outline. Keep the white paper and the lines between the smaller folders as they are. The original drawing still follows the Resurrect 32 palette; Accent uses matching colors automatically.
 
