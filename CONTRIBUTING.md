@@ -37,6 +37,10 @@ Please keep PRs small and focused:
 If you want to make icons for pixora-icons, these guidelines should point you to the right direction. Although they are not that strict, you should still keep them in mind for consistency reasons. <br>
 These guidelines apply to every app, be it Discord, Firefox, Steam (branded apps); or Settings, Accessibility, File Manager (non-branded apps).
 
+> [!CAUTION]
+> **AI USAGE GUIDELINES** <br><br>
+> Icons made entirely by AI will be promptly denied. The one and only exception is for when the original design is simple enough and the final result by the LLM looks similar to something I'd do myself. Any kind of AI usage must be disclosed in your PR, otherwise it WILL be closed without further notice. AI-generated icons can serve you as inspiration or basis for the design you want to do, but never the final result.
+
 ## Taking References
 
 You're free to use any version you want from any app icon for reference, besides the really old ones if the app has been through many rebrandings. Also try to keep the designs consistent with existing ones!
