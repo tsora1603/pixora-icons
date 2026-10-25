@@ -18,8 +18,6 @@
 >[!Note]
 > pixora-icons is being updated regularly. In case you want an icon to be added, please open a new issue.
 
----
-
 ## What is pixora-icons?
 
 A pixel-style icon theme for Linux desktop systems that aims to be as faithful as possible to the original application icons, while maintaining a unique visual style. Made with a vibrant color palette, your 16-bit retro rice will look as good as possible!
