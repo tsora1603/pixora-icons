@@ -11,12 +11,12 @@
 ![GitHub Repo stars](https://img.shields.io/github/stars/tsora1603/pixora-icons?style=for-the-badge&logo=github&labelColor=101418&color=b9c8da)
 ![GitHub repo size](https://img.shields.io/github/repo-size/tsora1603/pixora-icons?style=for-the-badge&logo=gitlfs&labelColor=101418&color=d3bfe6)
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/tsora)
+
 </div>
 
 >[!Note]
 > pixora-icons is being updated regularly. In case you want an icon to be added, please open a new issue.
-
----
 
 ## What is pixora-icons?
 
