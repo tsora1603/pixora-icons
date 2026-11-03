@@ -30,9 +30,9 @@ A pixel-style icon theme for Linux desktop systems that aims to be as faithful a
 
 ## 🌠 Preview
 
-![App_launcher](.github/icons-showcase-2.png)
+![App_launcher](.github/icons-showcase.png)
 
-![Icons showcase](.github/icons2.png)
+![Icons showcase](.github/icons.png)
 
 ## 🖥️ Installation
 
