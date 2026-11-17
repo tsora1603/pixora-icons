@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="448" height="512" shape-rendering="crispEdges" version="1.1" viewBox="32 0 448 512" xmlns="http://www.w3.org/2000/svg">
+<path transform="translate(352,128)" d="m0 0h64v32h32v-32h32v256h-32v32h-32v32h-64v32h-64v32h-64v-32h-64v-32h64v-96h32v-32h-64v-32h32v-32h64v-32h32v-32h64v-32h-32zm32 64v32h-32v64h-64v32h32v32h-32v32h-32v32h32v32h32v-32h32v-32h64v-32h32v-32h-32v-32h32v-96z" fill="#3E3546"/>
+<path transform="translate(224,32)" d="m0 0h64v32h64v32h-64v32h64v32h32v32h-64v-32h-64v-32h-32v32h-96v32h-32v-32h-32v-32h32v-32h32v32h64v-32h64v-32h-32z" fill="#625565"/>
+<path transform="translate(32,128)" d="m0 0h32v32h32v32h-32v96h32v32h-32v32h64v64h32v32h-64v-32h-32v-32h-32z" fill="#3E3546"/>
+<path transform="translate(352,256)" d="m0 0h32v32h32v32h-32v64h-32v-32h-32v-32h32z" fill="#fff"/>
+<path transform="translate(128,256)" d="m0 0h32v64h32v32h-32v32h-32v-64h-32v-32h32z" fill="#fff"/>
+<path transform="translate(224,160)" d="m0 0h32v64h32v32h-64v-32h-64v-32h64z" fill="#625565"/>
+<path transform="translate(128,160)" d="m0 0h96v32h-64v32h-64v-32h32z" fill="#3E3546"/>
+<path transform="translate(96,64)" d="m0 0h64v32h32v32h-64v-32h-32z" fill="#3E3546"/>
+<path transform="translate(160,32)" d="m0 0h64v32h32v32h-64v-32h-32z" fill="#3E3546"/>
+<path transform="translate(288,352)" d="m0 0h32v32h32v32h-64z" fill="#fff"/>
+<path transform="translate(192,352)" d="m0 0h32v64h-64v-32h32z" fill="#fff"/>
+<path transform="translate(384,224)" d="m0 0h64v64h-32v-32h-32z" fill="#fff"/>
+<path transform="translate(160,224)" d="m0 0h64v32h-32v32h-32z" fill="#3E3546"/>
+<path transform="translate(64,224)" d="m0 0h64v32h-32v32h-32z" fill="#fff"/>
+<path transform="translate(256,160)" d="m0 0h64v32h-32v32h-32z" fill="#3E3546"/>
+<path transform="translate(160,416)" d="m0 0h64v32h-64z" fill="#625565"/>
+<path transform="translate(192,320)" d="m0 0h64v32h-64z" fill="#625565"/>
+<path transform="translate(64,320)" d="m0 0h64v32h-64z" fill="#625565"/>
+<path transform="translate(288,288)" d="m0 0h64v32h-64z" fill="#625565"/>
+<path transform="translate(384,192)" d="m0 0h64v32h-64z" fill="#625565"/>
+<path transform="translate(352,96)" d="m0 0h64v32h-64z" fill="#625565"/>
+<path transform="translate(288,96)" d="m0 0h64v32h-64z" fill="#3E3546"/>
+<path transform="translate(352,64)" d="m0 0h64v32h-64z" fill="#3E3546"/>
+<path transform="translate(288,32)" d="m0 0h64v32h-64z" fill="#3E3546"/>
+<path transform="translate(224)" d="m0 0h64v32h-64z" fill="#3E3546"/>
+<path transform="translate(288,416)" d="m0 0h32v32h-32z" fill="#625565"/>
+<path transform="translate(256,384)" d="m0 0h32v32h-32z" fill="#625565"/>
+<path transform="translate(128,384)" d="m0 0h32v32h-32z" fill="#625565"/>
+<path transform="translate(384,352)" d="m0 0h32v32h-32z" fill="#625565"/>
+<path transform="translate(320,352)" d="m0 0h32v32h-32z" fill="#3E3546"/>
+<path transform="translate(160,352)" d="m0 0h32v32h-32z" fill="#3E3546"/>
+<path transform="translate(416,320)" d="m0 0h32v32h-32z" fill="#625565"/>
+<path transform="translate(384,320)" d="m0 0h32v32h-32z" fill="#3E3546"/>
+<path transform="translate(160,288)" d="m0 0h32v32h-32z" fill="#625565"/>
+<path transform="translate(384,256)" d="m0 0h32v32h-32z" fill="#625565"/>
+<path transform="translate(192,256)" d="m0 0h32v32h-32z" fill="#625565"/>
+<path transform="translate(96,256)" d="m0 0h32v32h-32z" fill="#625565"/>
+<path transform="translate(352,224)" d="m0 0h32v32h-32z" fill="#625565"/>
+<path transform="translate(128,224)" d="m0 0h32v32h-32z" fill="#625565"/>
+<path transform="translate(288,192)" d="m0 0h32v32h-32z" fill="#625565"/>
+<path transform="translate(64,192)" d="m0 0h32v32h-32z" fill="#625565"/>
+<path transform="translate(416,128)" d="m0 0h32v32h-32z" fill="#625565"/>
+<path transform="translate(224,128)" d="m0 0h32v32h-32z" fill="#3E3546"/>
+<path transform="translate(416,96)" d="m0 0h32v32h-32z" fill="#3E3546"/>
+<path transform="translate(64,96)" d="m0 0h32v32h-32z" fill="#3E3546"/>
+<path transform="translate(160,64)" d="m0 0h32v32h-32z" fill="#625565"/>
+</svg>
